@@ -28,6 +28,20 @@
 * x1 [User sw](case/case_type2_user_sw.stl)
 * x1 [Rst sw](case/case_type2_rst_sw.stl)
 
+### Case Type 3
+
+<img src="media/14.jpg" width="300">
+<img src="media/15.jpg" width="300">
+<img src="media/16.jpg" width="300">
+<img src="media/17.jpg" width="300">
+
+#### Parts
+
+* x1 [Bottom cover](case/case_type3_bottom.stl)
+* x1 [Top cover](case/case_type3_top.stl)
+* x1 [User sw (Same as type 2)](case/case_type2_user_sw.stl)
+* x1 [Rst sw (Same as type 2)](case/case_type2_rst_sw.stl)
+
 ## Holder
 
 ### Holder Type 1
