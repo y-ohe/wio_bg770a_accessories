@@ -15,11 +15,12 @@
 * x4 [M3x12 plastic pan head screw](https://akizukidenshi.com/catalog/g/g103583/)
 * x4 [M3 plastic hex nut](https://akizukidenshi.com/catalog/g/g103584/)
 
-### Case Type2
+### Case Type 2
 
 <img src="media/10.jpg" width="300">
 <img src="media/11.jpg" width="300">
 <img src="media/12.jpg" width="300">
+<img src="media/13.jpg" width="300">
 
 #### Parts
 
